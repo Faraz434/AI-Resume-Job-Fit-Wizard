@@ -21,7 +21,7 @@ Python-dotenv for managing environment variables,
 pip install streamlit, google-generativeai, python-pdotenv, pdf2image
 
 # Usage
-Configure the API key first then run the application with command 'streamlit run app.py',
+Configure the API key first then run the application with command 'streamlit run checker.py',
 Enter the job description and upload your resume for analysis.
 Select and click the button as per the desired output
 
